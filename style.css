@@ -1,0 +1,36 @@
+
+
+h1 {
+    background-color: yellow;
+    color: black;
+    font-size: 38px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.uno  {
+    background-color: red;
+    color: black;
+    font-size: 30px;
+}
+
+.dos {
+    background-color: black;
+    color: white;
+    font-size: 30px;
+}
+
+.ingredientes {
+    font-family: 'Courier New', Courier, monospace;
+    color: red;
+}
+.description {
+    background-color: green;
+}
+
+.odd {
+    color: green;
+}
+
+.even {
+    color: blueviolet;
+}
